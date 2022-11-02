@@ -1,4 +1,4 @@
-# My GitHub Project
+# Wordpress integration with google sheets
 
 Module for publishing new posts from google sheets using rest api wordpress
 - Publishing a post from Google Sheets
